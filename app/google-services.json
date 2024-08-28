@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "933175542751",
+    "firebase_url": "https://class-work-31998-default-rtdb.firebaseio.com",
+    "project_id": "class-work-31998",
+    "storage_bucket": "class-work-31998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933175542751:android:11d221946b76308e2a7a6a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconnectionloginsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFUNmdzWIE2DypGQj5me9Z1dpa01otfxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
