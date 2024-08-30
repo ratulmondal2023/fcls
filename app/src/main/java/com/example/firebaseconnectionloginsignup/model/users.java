@@ -5,7 +5,7 @@ public class users {
     String gmail;
     String pass;
 
-    public users() {
+    public users(String string, String s) {
     }
 
     public users(String gmail, String name, String pass) {
